@@ -18,6 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# Build settings
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+
 minimal_mistakes_skin: dark #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 title: ""
@@ -78,10 +83,7 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/chaningogden/"
 
-# Build settings
-theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
+
 
 defaults:
   # _posts
