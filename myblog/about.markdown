@@ -1,18 +1,22 @@
 ---
-layout: pages
+layout: single
 title: About
 permalink: /about/
+author_profile: true
+
 ---
+## Exploring
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+These are projects I am working on, or planning to. If you would like to work together on them, please feel free to reachout out and let me know!
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### Our Great Leaders Exploration
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Experiencing great leadership can be rare for many in their professional experience. This exploration would attempt to find those that demonstrate great leadership, what traits and habbits lead to that, and how we can build great work environments to foster this development.
 
+## Aiding
 
-[jekyll-organization]: https://github.com/jekyll
+These are projects I am a contributing member for, but not leading myself.
+
+### MeterHero, by StemHero
+
+[MeterHero](https://meterhero.com/) creates energy awareness through curriculum powered insights, encouraging conservation and environmental impacts.

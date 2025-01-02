@@ -11,7 +11,7 @@ With [GitHub Pages deploys](https://docs.github.com/en/pages/getting-started-wit
 
 ## Theming Jekyll Blog
 
-You can [add themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll), with many responsive layout options out there. One example is [Minimalist Mistakes](https://mmistakes.github.io/minimal-mistakes/)
+You can [add themes](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll), with many responsive layout options out there. One example is [Minimalist Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
 ### Tips
 

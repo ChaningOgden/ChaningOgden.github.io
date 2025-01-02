@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: dark #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-title: Your awesome title
+title: ""
 name: "Chaning Ogden"
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -37,21 +37,21 @@ bing_site_verification   :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : 
-  email            : "mailto:chaning.ogden@gmail.com"
+  name             : "Chaning Ogden"
+  avatar           : "/assets/images/bio-photo.jpeg"
+  #bio              : ""
+  #location         : 
+  #email            : "chaning.ogden@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:chaning.ogden@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://chaningogden.github.io/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ChaningOgden"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://chaningogden.github.io/"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/ChaningOgden"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   # url:
@@ -65,9 +65,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ChaningOgden"
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: "https://github.com/ChaningOgden"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
     #   # url:
@@ -82,6 +82,19 @@ footer:
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+
 
 # Reading Files
 include:
