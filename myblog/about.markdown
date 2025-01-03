@@ -6,11 +6,16 @@ author_profile: true
 
 ---
 
-I am an experienced engineering manager and software development professional with a diverse career spanning innovative technologies and industries. From advancing VOIP communication systems for air traffic control to designing wireless surgical tool identification systems, I thrive on solving complex challenges that merge technical ingenuity with impactful business outcomes.
+I’m passionate about using technology and strategy to solve complex problems and create meaningful solutions. Over the years, I’ve worked across industries ranging from air traffic control to surgical systems and financial services. My work has involved optimizing systems, designing innovative tools, and leading teams to deliver results.
 
-My professional journey has led me to roles that range from department director to hands-on developer, equipping me with a comprehensive understanding of business operations and technical leadership. Notable achievements include expanding device testing and verification capacity by over 400%, automating systems to prevent failures in high-stakes environments, and implementing strategies that increased department revenue by over 15%.
+Some highlights of my experience include:
+	•	Expanding testing capabilities by over 400%, enabling long-term business growth.
+	•	Automating processes to improve reliability and prevent critical failures in high-stakes environments.
+	•	Implementing strategies that recovered significant operational savings and increased revenue by 15%.
 
-I’m passionate about leveraging technology to drive efficiency and value, fostering collaborative environments, and empowering teams to exceed expectations. Let’s connect to explore innovative solutions and share ideas that make a difference.
+With a background in software engineering and an MBA in leadership and strategy, I bring a blend of technical expertise and big-picture thinking to every project. Whether it’s developing a product roadmap, refining workflows, or coaching teams, I’m committed to creating value and driving success.
+
+If you’re looking for a partner in technology consulting, product strategy, or leadership development, let’s connect.
 
 ## Exploring
 
