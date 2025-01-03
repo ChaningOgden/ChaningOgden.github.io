@@ -1,3 +1,10 @@
+---
+layout: posts
+title:  ""
+date:   2025-01-02 03:34:43 +0000
+categories: leadership culture
+published: false
+---
 
 # Outline
 
