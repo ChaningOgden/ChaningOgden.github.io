@@ -2,9 +2,11 @@
 
 Depends on:
 
+* [github pages](https://pages.github.com/)
 * [Jekyll](https://jekyllrb.com/) static site generator
 * [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
-* [github pages](https://pages.github.com/)
+
+You can follow along if you would like to create a GitHub Pages blog for yourself. Of course, this is just a way to do it. I also considered using [Hugo](https://gohugo.io/hosting-and-deployment/), which has all kinds of compatable hosts as well. They also have examples of deploying to GitHub Pages with an [example actions workflow](https://gohugo.io/hosting-and-deployment/hosting-on-github/).
 
 ## Using Jekyll
 
