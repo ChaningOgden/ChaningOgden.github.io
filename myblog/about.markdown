@@ -9,9 +9,10 @@ author_profile: true
 I’m passionate about using technology and strategy to solve complex problems and create meaningful solutions. Over the years, I’ve worked across industries ranging from air traffic control to surgical systems and financial services. My work has involved optimizing systems, designing innovative tools, and leading teams to deliver results.
 
 Some highlights of my experience include:
-	•	Expanding testing capabilities by over 400%, enabling long-term business growth.
-	•	Automating processes to improve reliability and prevent critical failures in high-stakes environments.
-	•	Implementing strategies that recovered significant operational savings and increased revenue by 15%.
+
+• Expanding testing capabilities by over 400%, enabling long-term business growth.
+• Automating processes to improve reliability and prevent critical failures in high-stakes environments.
+• Implementing strategies that recovered significant operational savings and increased revenue by 15%.
 
 With a background in software engineering and an MBA in leadership and strategy, I bring a blend of technical expertise and big-picture thinking to every project. Whether it’s developing a product roadmap, refining workflows, or coaching teams, I’m committed to creating value and driving success.
 
