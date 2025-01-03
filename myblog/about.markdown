@@ -11,7 +11,9 @@ I’m passionate about using technology and strategy to solve complex problems a
 Some highlights of my experience include:
 
 • Expanding testing capabilities by over 400%, enabling long-term business growth.
+
 • Automating processes to improve reliability and prevent critical failures in high-stakes environments.
+
 • Implementing strategies that recovered significant operational savings and increased revenue by 15%.
 
 With a background in software engineering and an MBA in leadership and strategy, I bring a blend of technical expertise and big-picture thinking to every project. Whether it’s developing a product roadmap, refining workflows, or coaching teams, I’m committed to creating value and driving success.
