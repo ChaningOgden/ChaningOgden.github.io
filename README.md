@@ -6,6 +6,8 @@ Depends on:
 * [Jekyll](https://jekyllrb.com/) static site generator
 * [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 
+If you would like to see a certain topic written about, please feel free to submit a [GitHub issue](https://github.com/ChaningOgden/ChaningOgden.github.io/issues) and I would be happy to add it to the Queue.
+
 You can follow along if you would like to create a GitHub Pages blog for yourself. Of course, this is just a way to do it. I also considered using [Hugo](https://gohugo.io/hosting-and-deployment/), which has all kinds of compatable hosts as well. They also have examples of deploying to GitHub Pages with an [example actions workflow](https://gohugo.io/hosting-and-deployment/hosting-on-github/).
 
 ## Using Jekyll
@@ -26,13 +28,14 @@ If this step wanted to be removed, a [remote theme](https://mmistakes.github.io/
 
 ## Tips
 
+#### Codespace Development
+
+The universal default image comes with all the needed parts to get rolling right away.
+
 #### Auto refresh page with each change
 
 ```bundle exec jekyll serve --livereload``` 
 
-#### Codespace Development
-
-The universal default image comes with all the needed parts to get rolling right away.
 
 
 
