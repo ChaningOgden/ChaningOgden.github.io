@@ -9,3 +9,13 @@
   * Ensures Reliability, Stability, and Adherence to customer needs
 
 * Different agile methods: (Scrum, XP, Scaled Agile Framework)
+
+## Important Visuals
+
+* Values stream mapping
+
+## Important Roles
+
+* QA
+* SRE
+* Value Stream Architect
